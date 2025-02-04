@@ -53,9 +53,6 @@ EXPOSE 80
 # Expose port 5173 
 
 EXPOSE 5173 
-
-# Expose port 53
-EXPOSE 53
  
 
 # Run Nginx to serve the app 
